@@ -1,5 +1,5 @@
 import express from 'express'
-import { join } from 'node:path'
+import { join } from 'path'
 
 import gameRoutes from './routes/game'
 
